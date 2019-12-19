@@ -10,3 +10,12 @@ body {
   margin: 0;
   min-height: 100%;
 }
+
+.hello-world {
+  color: purple;
+  text-align: center
+}
+
+#hello {
+  font-weight: 100;
+}
