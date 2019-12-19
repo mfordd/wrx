@@ -9,13 +9,36 @@ html {
 body {
   margin: 0;
   min-height: 100%;
+  background-color: grey;
+  
 }
 
-.hello-world {
+.project {
+  color: red
+}
+
+li {
+  padding: .5rem;
+  list-style: none;
+}
+
+h1 {
   color: purple;
-  text-align: center
+  border: .25rem solid purple;
+  border-radius: 1rem;
+  font-family: sans-serif;
+  font-size: 3rem;
 }
 
-#hello {
-  font-weight: 100;
+.button {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  color: rgb(238, 101, 101);
+  border-radius: 2rem;
+  background-color: lightblue;
+}
+
+.pic {
+  border: 1rem solid black;
+  border-radius: 1rem;
 }
